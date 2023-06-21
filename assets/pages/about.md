@@ -6,30 +6,38 @@ happen to work on."
 layout: pages
 ---
 
-{% comment %}
-    You should probably delete everything here and write
-    something for yourself.
-{% endcomment %}  
+<style>
+img {
+    width: 350px;
+    margin: 3rem auto 0 auto;
+}
+p.pic {
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+}
+</style>
 
+Locally source rice.
 
-_This is a simple introduction of [insert something here]_.
+![Moony.]({{ site.url }}/assets/images/highMoontRANS.png)
+<p class="pic">Pictured: <em>'Little Moony'</em>.  (CC0/Public Domain).</p>
+
 
 ## ..myself #
 
-Hello there. How I’ve waited for you to come, Ive been here all alone. 
-Now that you've arrived. Please stay a while. And I promise I won't keep you 
-long. <style>a{color: #FFF;}a:hover{color: #f0f0f0;}.footer a{color: #800000;}
-</style> [_I'll keep you forever..._](https://www.youtube.com/watch?v=fGZsO4ZO2
-OE)
+Halo!, I am a software engineering student with an appetite for knowledge and even bigger appetite for boba... all in all, I'm your run on the mill STEM student with an interest in social studies, especially politics and philosophy.
 
-## ...my writing #
+## ...my publications #
 
-I write all this because I like to chant, rant and sometimes say things that I
-probably shan't.
+Most of the articles and other publications I will post here will go in the following categories :
+
+- Politics
+- Philosophy
+- Tech
+- History
 
 ## ...this theme #
 
-Shredded! Simply stated in three words: ugly, old and barren.
-<a href="https://github.com/kxxvii/Kikofri" style="color: #800000;">
-Kikofri@github</a>.
-
+This theme is based off the <a href="https://github.com/kxxvii/Kikofri" style="color: #800000;"> Kikofri</a> theme. I cannot stress how perfect this theme is for the style I'm going for without the stress of designing my own theme from scratch and I can just focus on deployment and making more content!.
