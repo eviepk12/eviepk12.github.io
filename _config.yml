@@ -8,15 +8,15 @@
 #
 # Basic, either your jekyll site's name or
 # an organization.
-name: "K i k o f r i"
+name: "L u n a r - H o r i z o n s"
 description: "dirty and malnourished jekyll theme"
 
 # This should be a person of some sort.
-author: "kxxvii"
+author: "Epi / Enal"
 
 # Would make sense to use the 'name:' above
 # here. This is an alternative title.
-title: "Kikofri - Live Undead (1988, Moscow)"
+title: "Lunar Horizons"
 
 # 'en_US' is the default language. Enter a
 # new default language here. Making 'en_US'
@@ -25,7 +25,7 @@ lang:
 
 # Default post and page image if it's those
 # are unspecified.
-image: /assets/images/kikofrieye.png
+image: /assets/images/Sprite-0003.gif
 
 # I just set this to whatever the above
 # image value is.
@@ -35,7 +35,7 @@ logo:
 # # # # #
 
 # URL-stuff, don't forget the 'http...'-part
-url: "https://your.own.url.net"
+url: "https://eviepk12.github.io"
 #baseurl: ""
 permalink: /:year/:month/:day/:title.html
 
@@ -53,5 +53,8 @@ nav:
  - name: "feed"
    href: "/feed.xml"
 
- - name: "contact"
-   href: "/mailto:ivantheterrible@1530to1584.gov"
+ - name: "contacts"
+   href: "/contact"
+
+ - name: "cv"
+   href: "/cv"
