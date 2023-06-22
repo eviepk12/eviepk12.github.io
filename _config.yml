@@ -50,11 +50,14 @@ nav:
  - name: "tags"
    href: "/tags"
 
- - name: "feed"
-   href: "/feed.xml"
-
  - name: "contacts"
    href: "/contact"
 
  - name: "cv"
-   href: "/cv"
+   href: "/markdown-cv"
+
+ - name: "projects"
+   href: "/projects"
+
+ - name: "feed"
+   href: "/feed.xml"
