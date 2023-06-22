@@ -16,7 +16,7 @@ A universe filled with political intrigue, questions of religion, legitimacy of 
 
 I hope in this article I can give you a simple guide to the major factions that plays a role in the Dune universe, salute!
 
-*Keep in mind that this article mainly talks about the first three books as I havent gotten around finishing the sequels*
+*Keep in mind that this article mainly talks about the first three books as I havent gotten around finishing the sequels...*
 
 ## CHOAM (Combine Honnete Over Advancer Mercantiles)
 
@@ -106,5 +106,7 @@ The Imperial Throne is what the whole society of Dune revolves around, with the 
 The universe of Dune is an all encompassing complex interstellar society, with notes within notes within notes. And this article cannot do the beauty and complexity of this wonderful universe that has been written by Frank Herbert any justice.
 
 But I hope this article can be a good introduction, which to me, is one of the most interesting aspect of the universe. I hope you enjoy reading this as much as I enjoyed writing it!.
+
+<br>
 
 > Does the prophet see the future or does he see a line of weakness, a fault or cleavage that he may shatter with words or decisions[…]
