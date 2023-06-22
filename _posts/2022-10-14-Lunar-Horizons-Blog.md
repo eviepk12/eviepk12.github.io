@@ -1,8 +1,8 @@
 ---
-title:		'Lunar Horizons Blog'
-description:	"Short introduction to who, what, and *why*, I am."
+title: 'Lunar Horizons Blog'
+description: "Short introduction to who, what, and *why*, I am."
 layout: post
-author:		"Epi / Enal"
+author:	"Epi / Enal"
 tags:
 - Blog
 ---
