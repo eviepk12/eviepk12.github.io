@@ -13,7 +13,7 @@ layout: pages
 
 Small python GUI app made with tkinter.
 
-## [Caesar Script Website](https://www.eviepk12.github.io/caesar-script-website)
+## [Caesar Script Website]({{site.url}}/caesar-script-website/)
 
 Site to demonstrate how caesar script works made with HTML, CSS, and JS.
 
@@ -21,7 +21,7 @@ Site to demonstrate how caesar script works made with HTML, CSS, and JS.
 
 A compilation of simple CPP programs
 
-## [Calculator Website](https://www.eviepk12.github.io/calculator-website)
+## [Calculator Website]({{site.url}}/calculator-website/)
 
 A simple calculator website made with pure HTML and CSS.
 
@@ -31,4 +31,4 @@ My first portfolio website prior to this. Made entirely with HTML, CSS, and JS.
 
 ## [A Multiuser PHP Web Application](https://github.com/eviepk12/multiuser-php)
 
-Multiuser PHP Web application I made for a school project with authorization and multi level users.
+Multiuser PHP Web application I made for a school project with authorization and multi level users .
