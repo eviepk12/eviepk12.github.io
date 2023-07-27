@@ -25,10 +25,10 @@ A compilation of simple CPP programs
 
 A simple calculator website made with pure HTML and CSS.
 
-## [My old website design](https://www.eviepk12.github.io/archived-website)
+## [My old website design]({{site.url}}/archived-website)
 
 My first portfolio website prior to this. Made entirely with HTML, CSS, and JS.
 
-## [A Multiuser PHP Web Application](https://github.com/eviepk12/multiuser-php)
+## [A Multiuser PHP Web Application]({{site.url}}/eviepk12/multiuser-php)
 
 Multiuser PHP Web application I made for a school project with authorization and multi level users .

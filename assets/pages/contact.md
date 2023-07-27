@@ -9,14 +9,8 @@ layout: pages
 
 ---
 
-## 🤖 Github 🤖
+## [🤖 Github 🤖](https://github.com/eviepk12)
 
-Here is my [Github Profile](https://github.com/eviepk12).
+## [🤳 Instagram 🤳](https://www.instagram.com/eviepk12/)
 
-## 🤳 Instagram 🤳
-
-Here is my [instagram profile](https://www.instagram.com/eviepk12/)
-
-## ✍️ Medium ✍️
-
-Here is my [Medium profile](https://www.medium.com/@eviepk12/)
+## [✍️ Medium ✍️](https://www.medium.com/@eviepk12/)
