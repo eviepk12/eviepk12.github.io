@@ -9,6 +9,19 @@ tags:
 - Learning
 ---
 
+<style>
+img {
+    width: 500px;
+    margin: 3rem auto 0 auto;
+}
+p.pic {
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+}
+</style>
+
 For the last few months I have been obsessed with learning one of most well known and famous esoteric programming languages called **Brainf*ck** (gasp). First of all, forgive the rather harsh language but my journey through this rather niche and useless subject has taught me a few interesting points in intellectual development, self improvement, and the pure comedy of human nature of spending countless of hours on something just out of sheer curiosity.
 
 ## What is Esolang?
@@ -39,10 +52,12 @@ Basically Brainf*ck consists of :
 Those commands are :
 
 ![https://esolangs.org/wiki/Brainfuck]({{site.url}}/assets/images/posts/../../../../../assets/images/posts/my-journey-through-brainfuck/example1.png)
+<p class="pic">https://esolangs.org/wiki/Brainfuck</p>
 
 And the **Memory cell** and **Pointer** can be visualized as a long strip of tape as such :
 
 ![https://brainfuck-visualizer.netlify.app/]({{site.url}}/assets/images/posts/../../../../../assets/images/posts/my-journey-through-brainfuck/example2.png)
+<p class="pic">https://brainfuck-visualizer.netlify.app/</p>
 
 And these 2 very simple components put together made such an interesting, simple, yet fully functional (though not practical) programming language that can theoretically perform any tasks a normal language can.
 
@@ -51,6 +66,7 @@ As an example, the most common way of using this language is to just simply outp
 First we need to consult our trusty ASCII table :
 
 ![https://brainfuck-visualizer.netlify.app/]({{site.url}}/assets/images/posts/../../../../../assets/images/posts/my-journey-through-brainfuck/example3.png)
+<p class="pic">ASCII Table</p>
 
 Now from our table we know that we need
 
@@ -114,6 +130,7 @@ And now all we need is to figure out how to put them all in their cells!. A basi
 And that’s how you write Hello World in Brainf*ck!, it’s not the most practical per say but hey, it works!. Here is how it runs :
 
 ![https://brainfuck-visualizer.netlify.app/]({{site.url}}/assets/images/posts/../../../../../assets/images/posts/my-journey-through-brainfuck/example4.gif)
+<p class="pic">https://brainfuck-visualizer.netlify.app/</p>
 
 ## What’s the Point??
 
@@ -130,4 +147,3 @@ While I don’t see this as an inherently bad thing, I’m not one for advocatin
 For a few years now my software engineering classes and teachers have just been ramming down “hey, learn this framework” or “master this language”, and for a long while it’s what I’ve always thought of as computer science. It’s the class that does the coding.
 
 But after going through this whole journey for a few months, learning the *useless* language, scouring the esolang wiki to find more cool, interesting, or just downright silly languages that I can find. It gave me a whole new appreciation for computer science as a whole field, to explore new and just funny ideas, to find such passionate and smart people that took their time for such a silly and rather futile exercise, just because they can. The practically useless knowledge that I will never find use practically in the real world, has taught me more about passion and the ever quenching thirst for knowledge.
-

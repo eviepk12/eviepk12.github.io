@@ -10,6 +10,20 @@ tags:
 - Books
 ---
 
+<style>
+img {
+    width: 500px;
+    margin: 3rem auto 0 auto;
+}
+p.pic {
+    margin: auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+}
+</style>
+
+
 Dune is considered to be one of the defining series of modern science fiction. Highly regarded, and rightfully so, to be one of the Classics of modern science fiction.
 
 A universe filled with political intrigue, questions of religion, legitimacy of the prophet, leaders, the role of technology (particularly so called “Thinking Machines”) in society, and the structure of society as a whole.
@@ -21,12 +35,14 @@ I hope in this article I can give you a simple guide to the major factions that 
 ## CHOAM (Combine Honnete Over Advancer Mercantiles)
 
 ![CHOAM Flag]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example1.png)
+<p class="pic">CHOAM Flag</p>
 
 CHOAM *(Combine Honnete Over Advancer Mercantiles)* comes from multiple ancient Terran languages, roughly translates to *“Honorable Union for the Advancement of Greater Trade”*. An economic cartel within the imperium that virtually holds a monopoly on all economic affairs of the imperium, from simple foods to spice to weaponry.
 
 Though it relies heavily on the Spacing Guild to transport all it’s goods and services across the imperium, there is no doubt that CHOAM is one of the strongest (arguably THE strongest) faction in the universe, with their monopoly on all economic life of the imperium, giving whoever holds controls of CHOAM untold riches that would even make the Padishah Emperor look in jealousy.
 
 ![CHOAM poster for spice production]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example2.png)
+<p class="pic">CHOAM poster for spice production</p>
 
 CHOAM functions as a public company, meaning that the largest share holders of the company holds directorships, and the largest holder is the administrative head of the company. The corporation’s management and directorships is held by the **Padishah Emperor** and the **Landsraad** (with the **Spacing Guild** and **Bene Gesserit** holding a ghost share).
 
@@ -37,12 +53,14 @@ CHOAM gives an interesting insight in how important economic power can be in gai
 ## Landsraad
 
 ![Landsraad Hall — storyboard for Jodorowsky’s Dune]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example3.png)
+<p class="pic">Landsraad Hall — storyboard for Jodorowsky’s Dune</p>
 
 The Landsraad is a representative body of all the Great and Minor houses of the imperium, though founded long before the **Butlerian Jihad** with its rise to prominence during the early days of the Corrino Empire. Also sometimes called the Landsraad league, it held influence over more than 13,300 worlds of the imperium.
 
 Ruled by the High Council, the inner circle of the Landsraad which presides over disputes between the houses which even the emperor has to answer to.
 
 ![House Corrino coat-of-arms]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example4.png)
+<p class="pic">House Corrino coat-of-arms</p>
 
 The Landsraad works by allocating 1000 votes in total
 
@@ -58,12 +76,14 @@ The Landsraad shows the unique universe of Dune, a highly advanced interstellar 
 ## Spacing Guild
 
 ![Spacing Guild Emblem]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example5.png)
+<p class="pic">House Corrino coat-of-arms</p>
 
 Also called *“The Guild of Navigators”*, is an interstellar shipping, trade, and banking organization which holds a monopoly on interstellar travel. Though one would make the assumption of thinking they are similar to CHOAM for their focus on economic affairs, particularly interstellar travel, The Spacing Guild in actuality works more like the *Bene Gesserit*.
 
 A largely secretive mental-physical training school established after the Butlerian Jihad, alongside the Bene Gesserit Sisterhood. The Spacing Guild use spice and mental training to navigate *“folded space”* to instantaneously go from systems to systems safely with their enormous Heighliner Starships.
 
 ![Guild Navigator from Dune (1984)]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example6.png)
+<p class="pic">Spacing Guild Emblem</p>
 
 Perhaps the most distinct character of the Spacing Guild, and the series as a whole is the *Guild Navigators*. Barely human, special navigators that is used by the guild to traverse folded space. Forever entombed in what I can best describe as *“a giant tank of spice gas, floating effortlessly within, with webbed feet and hands and elongated foreheads”*.
 
@@ -74,6 +94,7 @@ The Spacing Guild is one of the most interesting faction within the Dune univers
 ## Bene Gesserit Order
 
 ![Bene Gesserit concept art for the 2021 Dune film adaptation]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example7.png)
+<p class="pic">Bene Gesserit concept art for the 2021 Dune film adaptation</p>
 
 Often simplified to just *Bene Gesserit* or *The Sisterhood*. The extremely exclusive, ancient, secretive, all female order of highly trained pseudo-religious cult that aims to guide humanity to a greater destiny through what they call the *“Kwisatz Haderach”* or chosen one.
 
@@ -82,6 +103,7 @@ Arose in the turmoil that followed the Butlerian Jihad, quickly established them
 For millenia, the Bene Gesserit exercise its power in the shadows of the imperium. Through the breeding programs, agents within the imperial court and Great Houses. As the skills of a Bene Gesserit is as desirable as an alliance with the Sisterhood itself, they are able to school women from the great houses, and even install their agents as wives and concubines for their use.
 
 ![Bene Gesserit in the 1984 Dune movie adaptation]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example8.png)
+<p class="pic">House Corrino coat-of-arms</p>
 
 The Bene Gesserit schools were taught to maximize the physical and mental potential of humanity. As a result, Bene Gesserit adepts posses abilities that could not be rivaled by anyone in the known universe, such as their martial arts technique of the *“Weirding Way”* that only the near mythic warriors of the Imperial Sardaukar and the Fremen could rival.
 
@@ -90,12 +112,14 @@ The Bene Gesserit is the most feared faction in the universe, with agents on eve
 ## Imperial Throne
 
 ![God Emperor Leto Atreides II]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example9.png)
+<p class="pic">Bene Gesserit in the 1984 Dune movie adaptation</p>
 
 And lastly of course, the most powerful single figure in the imperium, The Emperor. Though theoretically the emperor shares power with the Landsraad, the emperor still holds virtually supreme power over the imperium.
 
 With the emperor holding the single largest voting share in the Landsraad, and most importantly owning Arrakis, having a hold on the home planet of the sandworms and melange. The most crucial commodity in the known universe, made the emperor the single most powerful member of the Landsraad, and the universe as a whole.
 
 ![Padishah Emperor Shaddam Corrino IV]({{site.url}}/assets/images/posts/guide-to-the-politics-of-dune/example10.png)
+<p class="pic">God Emperor Leto Atreides II</p>
 
 For thousands of years the imperium was ruled by House Corrino, gained from the *Battle of Corrin*. House Corrino ascended to the throne of the imperium, and not until Paul Atreides overthrew Padishah Emperor Shaddam Corrino IV during the *Arrakis Affair* and replaced the millenia old royal family and brought forward a new age to the imperium.
 

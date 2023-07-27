@@ -4,7 +4,7 @@ description: "Short introduction to who, what, and *why*, I am."
 layout: post
 author:	"Epi / Enal"
 tags:
-- Blog
+- General
 ---
 
 <style>
