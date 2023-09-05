@@ -36,6 +36,8 @@ While this article will not be doing a deep analysis on this particular document
 
 ## (A Bit) of History
 
+
+
 ---
 
 ## References
