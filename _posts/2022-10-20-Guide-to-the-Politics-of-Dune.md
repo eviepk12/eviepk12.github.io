@@ -23,7 +23,6 @@ p.pic {
 }
 </style>
 
-
 Dune is considered to be one of the defining series of modern science fiction. Highly regarded, and rightfully so, to be one of the Classics of modern science fiction.
 
 A universe filled with political intrigue, questions of religion, legitimacy of the prophet, leaders, the role of technology (particularly so called “Thinking Machines”) in society, and the structure of society as a whole.
