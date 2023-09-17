@@ -5,6 +5,7 @@ layout: post
 author:	"Epi / Enal"
 tags:
 - Politics
+- History
 ---
 
 <style>
@@ -22,7 +23,7 @@ p.pic {
 
 As June rolls around, the topic of Pride Month has circulated everyones news cycle, whether it be positive or negative. It can't be ignored though how the mainstream image of "Pride Month", largerly revolves around celebrations in western nations i.e America, Netherlands, UK, etc etc.  
 
-While this image is not inherently *wrong*, it does create a western-centric view of queer culture and development that can be quite damaging. Not only to westerners which creates a false image that queers **only** exists in the west, and creating an orientalist view of queers around the world, it can also be damaging to queers in non western nations that makes them feel isolated and lonely in a seemingly more and more violent and hostile society towards queer people.
+While this image is not inherently *wrong*, it does create a western-centric view of queer culture and development that can be quite damaging. Not only to westerners which creates a false image that queers **only** exists in the west, creating an orientalist view of queers around the world, it can also be damaging to queers in non western nations that makes them feel isolated and lonely in a seemingly more and more violent and hostile society towards queer people.
 
 I know my experience as a young queer person feeling isolated, lonely, seeing the pride marches abroad, how they seem to be more accepting than what I experience in my own home. It made me jealous, bitter even, to my friends abroad that can express and live life in a way that I can't even imagine myself doing in my wildest dreams.
 
@@ -89,13 +90,13 @@ That is the motto all queer people should take with all their heart. To serve th
 
 > Before joining the NPA, Oli­ver’s notion of “gay pride” was heavily influenced by bourgeois and post-modernist ideas centered on individualism, and detached from social realities of class struggle. Back then, his understanding was limited to pride and self-accep­tance devoid of the material con­ditions and structures that deny people—gay or not—their demo­cra­tic rights. **“How can we have ‘pride’ when we are deprived of education, when we are exploited, when we cannot feed our families, or when we are being driven away from our land and our only means of living?”** he said.
 
-People don't just believe in things on their own, it is birthed from social and material conditions. As homophobia and heteronormativity is borned into our societies, we can kill it too. To kill it, we cannot rely on the individualist or idealist model of thought, to think that "this is just the way they are" or "our people are too close minded" etc etc.
+People don't just believe in things on their own, it is birthed from social and material conditions. As homophobia and heteronormativity is borned into our societies, we can kill it too. And to kill it, we cannot rely on the individualist or idealist model of thought, to think that "this is just the way they are" or "our people are too close minded" etc etc.
 
 This form of pessimism is the result of individualist thought that has seeped into our culture, sometimes even coming from an orientalist view, how our people are "barbaric" to be like the "civilized" west.µ#[4](https://prwcinfo.wordpress.com/2021/06/21/to-be-gay-in-the-npa/)#µ
 
 >“As members of the LGBTQ community, we must not remain as passive receivers of acceptance. Instead of waiting for the masses to accept us, we must go to them directly and share our experiences and struggles. We can learn firsthand about their struggles and find commonalities.”
 
-Only by serving the masses, jumping to the grounds, and truly understand the unifying force of our struggle, then and only then, can we truly expect change in our society.
+Only by serving the masses, jumping to the grounds, and truly understand the unifying force of our struggle, then and **only** then, can we truly expect change in our society.
 
 ## What to do
 
@@ -104,9 +105,9 @@ There are a few key point of lessons I think we can learn from the experiences o
 1. The importance of mass based cultural and social work
     : The masses are the makers of history, and through the masses alone can we change history. We won't change anything through useless slogans of "liberation" and "acceptance" if we don't actually go down with the masses and unite with them in our unified struggle for freedom.
 2. Lies of peaceful reformist politics
-    : Liberal politics would like to make us believe that "revolutions" are a barbaric and evil method of change, and to peacefully reform society is the best way forward. Where was this peaceful loving mentality when we were getting murdered in cold blood with the pretense of "gay panic"? where was this reform loving heart when we asked for respect and rights as a human being as we were dying of aids left out to rot and die in a horror population control of the undesirables? Liberation is to fight, not to beg.
+    : Liberal politics would like to make us believe that "revolutions" are a barbaric and evil method of change, and to peacefully reform society is the best way forward. Where was this peaceful loving mentality when we were getting murdered in cold blood with the pretense of the "gay panic"? where was this reform loving heart when we asked for respect and rights as a human being as we were dying of aids left out to rot and die in a victorian-esque population control of the undesirables? Liberation is to fight, not to beg.
 3. No compromises for our rights
-    : Contemporary queer liberal politics lacks the militancy in preserving our rights as human beings, as much as they preach the world on their "uncompromising stance" for our rights, the last few years have showed up how bullshit that is. The queer movement in the US is struggling to preserve their humanity while reactionary legislators take away their rights left and right without a single thing to worry about. The existence of the New People's Army and it's ability to protect the queer rights of its fighters and peoples have showed us how important militant revolutionary politics is. No compromises for our rights!.
+    : Contemporary queer liberal politics lacks the militancy in preserving our rights as human beings, as much as they preach the world on their "uncompromising stance" for our rights, the last few years have showed up how bullshit that is. The queer movement in the US is struggling to preserve their humanity while reactionary legislators take away their dignity left and right without repercussion. The existence of the New People's Army and it's ability to protect the queer rights of its fighters and peoples have showed us how important militant revolutionary politics is. No compromises for our rights!.
 
 A better world is possible, and pessimistic egotism will not get us there. A world where queers would be accepted for who they are, as a human being, as a friend. This world is possible for us to attain, we know this as a fact...
 
