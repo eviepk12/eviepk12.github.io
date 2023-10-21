@@ -21,7 +21,7 @@ p.pic {
 </style>
 
 ![Ghosty.]({{ site.url }}/assets/images/Sprite-0003.gif)
-<p class="pic">Pictured: <em>'Little Ghosty'</em>.  (CC0/Public Domain).</p>
+<p class="pic">Pictured: <em>'Ghosty'</em></p>
 
 ## Who am I?
 
