@@ -3,7 +3,6 @@ title: "Rainbow Fighters of the Archipelago"
 description: "Introduction to the revolutionary queer fighters of the Philippines."
 layout: post
 author:	"Epi / Enal"
-hidden: true
 tags:
 - Politics
 - History
