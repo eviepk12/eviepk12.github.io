@@ -27,11 +27,18 @@ body {
   	max-width: 580px;
   	margin: auto;
     text-align: center;
+    
+    border-style: solid;
+    box-shadow: 10px 10px;
 }
 
 .container_post {
   	max-width: 650px;
   	margin: auto;
+    padding: 50px;
+    
+    border-style: solid;
+    box-shadow: 10px 10px;
 }
 
 a {
