@@ -40,3 +40,7 @@ A translation of Tan Malaka's "Massa Aksi" to english.
 ## [ReFill](https://github.com/eviepk12/ReFill)
 
 Movie favorite app made with Flutter using the TMDB api.
+
+## [Republican Calendar App](https://github.com/eviepk12/republican_calendar)
+
+A calendar app made with the republican calendar system.
