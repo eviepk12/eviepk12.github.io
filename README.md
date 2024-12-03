@@ -1,5 +1,7 @@
 # K I K O F R I
 
+https://github.com/eviepk12/archived-website
+
 Kikofri is a theme for Jekyll that's a fork of the [Kiko theme][1] It came
 about because I like my themes like I like my music: ugly, old and barren. It's
 an assortment of hacks filtered through web-design choices from the turn of the
